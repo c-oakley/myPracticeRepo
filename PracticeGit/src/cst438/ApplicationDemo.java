@@ -6,11 +6,12 @@ public class ApplicationDemo {
 				"Apples",
 				"Bananas",
 				"cucucumbers ",
-				"Dog Food",
+				"Cat Food",
+				"More Dog Food",
 				"Cereal", 
 				"Bread", 
 				"Eggs",
-				"Milk"
+				"Low Fat Milk"
 		};
 		for (String item: shopList) {
 			System.out.println(item);
