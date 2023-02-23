@@ -7,10 +7,11 @@ public class ApplicationDemo {
 				"Bananas",
 				"cucucumbers ",
 				"Cat Food",
+				"More Dog Food",
 				"Cereal", 
 				"Bread", 
 				"Eggs",
-				"Milk"
+				"Low Fat Milk"
 		};
 		for (String item: shopList) {
 			System.out.println(item);
